@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👻 Heyho I'm Jule alias Gespensterkind [ˈɡɛːʃpɛnstɐkɪnt] 
+🔐 **Backend & API Security | Database Security | Secure Software Development**  
 
-<!--
-**gespensterkind/gespensterkind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📝 About Me  
+I work on **backend security, API protection, and database security**, with a focus on preventing vulnerabilities like SQL injections and API misconfigurations.  
+I also enjoy **exploring security tools**, improving authentication mechanisms, and testing for vulnerabilities in web applications.  
 
-Here are some ideas to get you started:
+Aside from security, I like working on **small coding projects**, building **puzzle-based games**, and experimenting with **pixel art**. I like how logic and creativity come together in both security and game development.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 What You'll Find Here  
+🔹 **Security Projects** – API authentication, SQL security, role-based access control  
+🔹 **Pentesting & Security Research** – OWASP testing, logging & monitoring, security audits  
+🔹 **Creative Coding** – Small projects combining logic, security, and pixel art  
+
+---
