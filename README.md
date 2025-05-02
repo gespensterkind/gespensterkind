@@ -1,17 +1,34 @@
-# 👻 Heyho I'm Jule alias Gespensterkind [ˈɡɛːʃpɛnstɐkɪnt] 
-🔐 **Backend & API Security | Database Security | Secure Software Development**  
+# 👻 Heyho, I'm Jule – alias *Gespensterkind* [ˈɡɛːʃpɛnstɐkɪnt]
+
+🔐 **Backend & API Security | Embedded Systems | Smart Automation**
 
 ## 📝 About Me  
-I work on **backend security, API protection, and database security**, with a focus on preventing vulnerabilities like SQL injections and API misconfigurations.  
-I also enjoy **exploring security tools**, improving authentication mechanisms, and testing for vulnerabilities in web applications.  
+I'm a developer with a deep interest in **secure backend systems** and **API protection**, currently expanding into the world of **IoT**, **embedded development**, and **smart home automation**.
 
-Aside from security, I like working on **small coding projects**, building **puzzle-based games**, and experimenting with **pixel art**. I like how logic and creativity come together in both security and game development.  
+My projects often explore:
+- 🧠 **ESP32 & ESPHome** for sensor-based automation  
+- 🌿 **Smart plant care systems** (like [LuminPlant](#))  
+- 🏠 **Home Assistant** integrations and dashboard customization  
+- 🔐 **API & database security**, with a focus on hardening systems from the ground up
+
+I'm passionate about creating systems that are not just functional, but also **resilient, transparent, and respectful of user control**.
 
 ---
 
 ## 💻 What You'll Find Here  
-🔹 **Security Projects** – API authentication, SQL security, role-based access control  
-🔹 **Pentesting & Security Research** – OWASP testing, logging & monitoring, security audits  
-🔹 **Creative Coding** – Small projects combining logic, security, and pixel art  
+🔹 **IoT Projects** – ESP-based automations, environmental monitoring, sensor networks  
+🔹 **Home Assistant Integrations** – Custom YAML configs, ESPHome modules, dashboards  
+🔹 **Security Projects** – Secure backend logic, role-based access, input validation  
+🔹 **Creative Experiments** – Logic-meets-aesthetics in pixel art, tools, and small games  
 
 ---
+
+## 🧠 Currently Exploring  
+- Modular YAML design in ESPHome  
+- Home-based micro automations (lights, moisture, temp)  
+- Secure OTA deployment pipelines  
+- GitHub-based documentation for personal systems
+
+---
+
+
