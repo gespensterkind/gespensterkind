@@ -7,7 +7,7 @@ I'm a developer with a deep interest in **secure backend systems** and **API pro
 
 My projects often explore:
 - 🧠 **ESP32 & ESPHome** for sensor-based automation  
-- 🌿 **Smart plant care systems** (like [LuminPlant](#))  
+- 🌿 **Smart plant care systems** (like [LuminPlant](https://github.com/gespensterkind/LuminPlant_HomeAssistantVersion))  
 - 🏠 **Home Assistant** integrations and dashboard customization  
 - 🔐 **API & database security**, with a focus on hardening systems from the ground up
 
