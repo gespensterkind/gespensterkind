@@ -8,7 +8,7 @@ Currently I work hands-on with building automation, lighting systems, and networ
 
 My projects often explore:
 - **ESP32 & ESPHome** for sensor-based automation  
-- - **Home Assistant** integrations and dashboard customization  
+- **Home Assistant** integrations and dashboard customization  
 - **API & database security**, with a focus on hardening systems from the ground up
 - **KNX & DALI lighting systems, Loxone integrations
 - Raspberry Pi-based tools, like a Networkscannertool
