@@ -19,11 +19,12 @@ I'm passionate about creating systems that are not just functional, but also res
 
 ## 💻 What You'll Find Here
 
-  🟡**IoT Projects** - ESP-based automations, environmental monitoring, sensor networks  
-  🟡 **Home Assistant Integrations** - Custom YAML configs, ESPHome modules, dashboards  
-  🟡 **Security Projects** - Secure backend logic, role-based access, input validation  
-  🟡 **Network Tools** - Diagnostic and scanning utilities (Raspberry Pi + Node.js)
-  🟡 **Creative Experiments** - Mostly pixelart, small games and tools
+  📂**IoT Projects** - ESP-based automations, environmental monitoring, sensor networks  
+  📁 **Home Assistant Integrations** - Custom YAML configs, ESPHome modules, dashboards  
+  📁 **Security Projects** - Secure backend logic, role-based access, input validation  
+  📁 **Network Tools** - Diagnostic and scanning utilities (Raspberry Pi + Node.js)
+  
+  ⭐ **Creative Experiments** - Mostly pixelart and small games
 
 
 
