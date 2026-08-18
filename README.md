@@ -1,30 +1,53 @@
-# 👻 Heyho, I'm Jule - alias *Gespensterkind* [ˈɡɛːʃpɛnstɐkɪnt]
+# 👻 Heyho, I'm Jule — alias *Gespensterkind* [ˈɡɛːʃpɛnstɐkɪnt]
 
-**Backend & API Security | Embedded Systems | Smart Automation**
+**Software Development | Building Automation | IoT & Smart Systems**
 
-## About Me  
-I'm an aspiring developer with a deep interest in **secure backend systems** and **API protection**, currently expanding into the world of **IoT**, **embedded development**, and **smart home automation**.
-Currently I work hands-on with building automation, lighting systems, and network infrastructure.
+## About Me
 
-My projects often explore:
-- **ESP32 & ESPHome** for sensor-based automation  
-- **Home Assistant** integrations and dashboard customization  
-- **API & database security**, with a focus on hardening systems from the ground up
-- **KNX & DALI** lighting systems, Loxone integrations
-- **Raspberry Pi**-based tools, like a Networkscannertool
+I'm a software developer working at the intersection of **software, building automation and IT infrastructure**.
 
-I'm passionate about creating systems that are not just functional, but also resilient and transparent.
+My work revolves around connecting systems that normally live in very different worlds — from **Home Assistant and Python** to **KNX, DALI, networking and virtualized infrastructure**.
+
+I enjoy understanding how systems work beneath the surface, building tools around them, and turning technical complexity into something maintainable and usable.
+
+### 🔧 Things I work with
+
+* **Python** and custom Home Assistant integrations
+* **Home Assistant**, ESPHome and ESP32
+* **KNX / ETS** and **DALI** lighting systems
+* **Linux**, Docker and Proxmox
+* Network infrastructure and diagnostics
+* APIs, databases and system integrations
+* Raspberry Pi and embedded projects
 
 ---
 
 ## 💻 What You'll Find Here
 
-  📂**IoT Projects** - ESP-based automations, environmental monitoring, sensor networks  
-  📁 **Home Assistant Integrations** - Custom YAML configs, ESPHome modules, dashboards  
-  📁 **Security Projects** - Secure backend logic, role-based access, input validation  
-  📁 **Network Tools** - Diagnostic and scanning utilities (Raspberry Pi + Node.js)
-  
-  ⭐ **Creative Experiments** - Mostly pixelart and small games
+📂 **Building Automation**
+Experiments and tools around KNX, lighting control and automation systems
 
+📂 **Home Assistant**
+Custom integrations, automations, dashboards and supporting tools
 
+📂 **IoT & Embedded**
+ESP32, ESPHome, sensors and small connected devices
 
+📂 **Infrastructure & Networking**
+Linux, virtualization, network tooling and diagnostic utilities
+
+📂 **Software Projects**
+Python applications, APIs and experiments around system integration
+
+⭐ **Creative Experiments**
+Pixel art, small games and whatever else seemed like a good idea at the time
+
+---
+
+### Currently exploring
+
+* KNX application development and system design
+* Reliable integration between building automation and higher-level software
+* Home Assistant integration architecture
+* IoT and embedded development
+* Making complex technical systems easier to operate and understand
